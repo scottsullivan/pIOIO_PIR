@@ -9,8 +9,8 @@ The IOIO is a microcontroller and has very similar capabilities to an Arduino, e
 
 If you're not familiar with using Processing to write Android applications check out this <a href="http://processing.org/tutorials/android/">Android Processing Tutorial</a> by Jer Thorp and the <a href="http://wiki.processing.org/w/Android">Android Processing Wiki.</a> We'll specificially be using the <a href="https://github.com/PinkHatSpike/pioio">PIOIO</a> library for Processing by PinkHatSpike.
 
-Here's what it will look like (<a href="https://vimeo.com/88686061">link to Vimeo page</a>):
-<a href="https://vimeo.com/88686061"><img src="http://i.imgur.com/BMr66Ti.jpg" title="Video link" /></a>
+Here's what it will look like (<a href="https://vimeo.com/88794618">link to Vimeo page</a>):
+<a href="https://vimeo.com/88794618"><img src="http://imgur.com/48lbrSz.jpg" title="Video link" /></a>
 
 ### Hardware used
 Before we dig in to the code, you'll need to pick up this hardware. You can get most of it from <a href="https://www.sparkfun.com/">Sparkfun</a>.
